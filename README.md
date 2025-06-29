@@ -8,49 +8,64 @@ This project also leverages the power of Artificial Intelligence, specifically G
 
 ## Outline
 
-Here's version 1 of the topics covered:
+Here's some topics (in progress) to get started with:
 
 **I. Getting Started with Python in Google Colab**
-    * Introduction to Google Colab: Your interactive coding environment.
-    * Your first Python code: Printing and basic operations.
+* Introduction to Google Colab: Your interactive coding environment.
+* Your first Python code: Printing and basic operations.
 
 **II. Python Fundamentals**
-    * Variables and Data Types: Integers, Floats, Strings, Booleans.
-    * Operators: Arithmetic, Comparison, Logical.
-    * Control Flow:
-        * Conditional Statements: `if`, `elif`, `else`.
-        * Loops: `for`, `while`.
+* Variables and Data Types: Integers, Floats, Strings, Booleans.
+* Operators: Arithmetic, Comparison, Logical.
+* Control Flow:
+  * Conditional Statements: `if`, `elif`, `else`.
+  * Loops: `for`, `while`.
+  * Comprehensions.
 
 **III. Data Structures**
-    * Lists: Ordered, mutable collections.
-    * Tuples: Ordered, immutable collections.
-    * Dictionaries: Key-value pairs.
-    * Sets: Unordered collections of unique elements.
+* Lists: Ordered, mutable collections.
+* Tuples: Ordered, immutable collections.
+* Dictionaries: Key-value pairs.
+* Sets: Unordered collections of unique elements.
 
 **IV. Functions**
-    * Defining and calling functions.
-    * Function arguments and return values.
-    * Scope of variables.
+* Defining and calling functions.
+* Function arguments and return values.
+* Scope of variables.
 
-**V. Modules and Packages**
-    * Importing and using built-in modules.
-    * Introduction to external packages (e.g., `math`).
+**V. Environments**
+* UV
+* VENV
+* .env
 
-**VI. Object-Oriented Programming (OOP)**
-    * Classes and Objects.
-    * Attributes and Methods.
-    * Inheritance, Polymorphism, Encapsulation (brief introduction).
+**VI. Modules and Packages**
+* Importing and using built-in modules.
+* Introduction to external packages (e.g., `math`).
 
-**VII. Working with Files**
-    * Reading from and writing to files.
+**VII. Object-Oriented Programming (OOP)**
+* Classes and Objects.
+* Attributes and Methods.
+* Inheritance, Polymorphism, Encapsulation.
 
-**VIII. Error Handling**
-    * `try`, `except` blocks.
+**VIII. Working with Files**
+* Reading from and writing to files.
+* Stdio.
 
-**IX. Introduction to More Advanced Topics**
-    * List comprehensions.
-    * Generators.
-    * Decorators (brief overview).
+**IX. Error Handling**
+* `try`, `except` blocks.
+* Debugging.
+* Tests.
+
+**X. Advanced Topics**
+* Generators.
+* Closures.
+* Decorators.
+* FastAPI.
+* ASync(io).
+* Multi-Processing.
+* Parallel Processing.
+* Threading.
+* Distributive Computing.
 
 ## Leveraging Gemini for Learning
 
